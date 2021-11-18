@@ -50,6 +50,7 @@
 
 @media (min-width: 600px) and (max-width: 1024px) {
   .div {
+    width: 100%;
     padding: 50px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -63,6 +64,7 @@
 
 @media (max-width: 599px) {
   .div {
+    width: 100%;
     padding: 50px;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
