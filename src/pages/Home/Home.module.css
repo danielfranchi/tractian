@@ -74,4 +74,9 @@
     position: relative;
     left: 80px;
   }
+
+  .container {
+    position: relative;
+    left: 37px;
+  }
 }
