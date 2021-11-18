@@ -30,7 +30,7 @@
   color: #052f83;
 }
 
-@media (min-width: 600px) and (max-width: 900px) {
+@media (min-width: 600px) and (max-width: 1200px) {
   .nav {
     position: relative;
     left: 63px;
