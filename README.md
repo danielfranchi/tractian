@@ -12,7 +12,7 @@
 
 Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina: [Git] ( https://git-scm.com ), [Node.js]  (https://nodejs.org/en/). Além disso, é bom ter um editor para trabalhar com o código como [VSCode] (https://code.visualstudio.com/). Para melhor visibilidade do estato global no Redux, instale Redux devtools no navegador (http://bit.ly/ctt-redux-dev-tools) e no projeto via terminal (npm install redux-devtools-extension).
 
-## Deploy da aplicação no Heroku
+### :cloud: Deploy da aplicação no Heroku
 
 :point_right:  [https://app-tractian.herokuapp.com/](https://app-tractian.herokuapp.com/)
 
